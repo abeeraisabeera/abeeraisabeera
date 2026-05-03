@@ -16,6 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=abeeraisabeera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=abeeraisabeera&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
